@@ -1,6 +1,10 @@
 # Multimedia
 For Multimedia Application
 
+# Vocal Remover
+https://ultimatevocalremover.com/ \
+https://github.com/adefossez/demucs
+
 # No Copyright Music
 https://studio.youtube.com/channel/UCQUGLgKyM5mCfytKL2cIvmg/music \
 https://www.youtube.com/watch?v=siCmqvfw_1g&list=PLzCxunOM5WFJ7sbHi_9Zwq2xOwtkYeZlx&index=1&ab_channel=AudioLibrary%E2%80%94Musicforcontentcreators \
